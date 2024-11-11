@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shiva Prasad Tammannagari | Aspiring Data Analyst</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Shiva Prasad Tammannagari</h1>
+        <p>Aspiring Data Analyst</p>
+        <p>Email: <a href="mailto:tshivaprasad466@gmail.com">tshivaprasad466@gmail.com</a></p>
+    </header>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project-list">
+            <!-- Project examples -->
+            <div class="project">
+                <h3>Project 1: Sign Language Detection</h3>
+                <p>Developed a model to detect sign language gestures using computer vision.</p>
+            </div>
+            <div class="project">
+                <h3>Project 2: Real-Time Video Integration</h3>
+                <p>Integrated a trained model with real-time video feed for sign language detection.</p>
+            </div>
+            <!-- Add more projects as needed -->
+        </div>
+    </section>
+
+    <footer>
+        <p>Connect with me on LinkedIn | GitHub</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
